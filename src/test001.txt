@@ -3,4 +3,4 @@
 echo "kuku";
 echo "mumu";
 
-echo "minor fix addendum";
+echo "minor fix addendum";  // forgot the comment here (in minor fix)
